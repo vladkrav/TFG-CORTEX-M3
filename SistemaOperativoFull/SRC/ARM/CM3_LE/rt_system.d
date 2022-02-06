@@ -1,0 +1,13 @@
+.\cm3_le\rt_system.o: ..\rt_System.c
+.\cm3_le\rt_system.o: ..\rt_TypeDef.h
+.\cm3_le\rt_system.o: ..\RTX_Config.h
+.\cm3_le\rt_system.o: ..\rt_Task.h
+.\cm3_le\rt_system.o: ..\rt_System.h
+.\cm3_le\rt_system.o: ..\rt_Event.h
+.\cm3_le\rt_system.o: ..\rt_List.h
+.\cm3_le\rt_system.o: ..\rt_Mailbox.h
+.\cm3_le\rt_system.o: ..\rt_Semaphore.h
+.\cm3_le\rt_system.o: ..\rt_Time.h
+.\cm3_le\rt_system.o: ..\rt_Timer.h
+.\cm3_le\rt_system.o: ..\rt_Robin.h
+.\cm3_le\rt_system.o: ..\rt_HAL_CM.h

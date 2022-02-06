@@ -1,0 +1,4 @@
+-c --cpu Cortex-M0 -D__EVAL --li -g -O3 --apcs=interwork --split_sections -I..
+-I C:\Keil\ARM\RV31\INC
+-I C:\Keil\ARM\CMSIS\Include
+-D__CORTEX_M0 -D__CMSIS_RTOS -o .\cm0_le\hal_cm0.o --depend .\cm0_le\hal_cm0.d "HAL_CM0.c"

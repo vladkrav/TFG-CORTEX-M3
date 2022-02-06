@@ -1,0 +1,418 @@
+Dependencies for Project 'ssooyapp', Target 'Target 1': (DO NOT MODIFY !)
+F (..\Aplicacion\system_LPC17xx.c)(0x520A09AA)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\system_lpc17xx.o --omf_browse .\obj\system_lpc17xx.crf --depend .\obj\system_lpc17xx.d)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+F (..\Aplicacion\startup_LPC17xx.s)(0x531F3463)(--cpu Cortex-M3 --pd "__RTX SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"--pd "__UVISION_VERSION SETA 526"--list .\lst\startup_lpc17xx.lst --xref -o .\obj\startup_lpc17xx.o --depend .\obj\startup_lpc17xx.d)
+F (..\Aplicacion\Other main\main_file.c)(0x5D10A755)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\main_file.o --omf_browse .\obj\main_file.crf --depend .\obj\main_file.d)
+I (..\..\SRC\cmsis_os.h)(0x511B6166)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599F3DAC)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599F3DAC)
+I (..\Aplicacion\File\FILE_OS.h)(0x5CF7C03C)
+I (..\Aplicacion\File\USER\FATFS_V0.08A\src\ff.h)(0x4C6967B8)
+I (..\Aplicacion\File\USER\FATFS_V0.08A\src\integer.h)(0x4BD36672)
+I (..\Aplicacion\File\USER\FATFS_V0.08A\src\ffconf.h)(0x4E2BF3DF)
+F (..\Aplicacion\RTX_Conf_CM.c)(0x5C61B451)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\INC -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\rtx_conf_cm.o --omf_browse .\obj\rtx_conf_cm.crf --depend .\obj\rtx_conf_cm.d)
+I (..\Aplicacion\cmsis_os.h)(0x511B6166)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599F3DAC)
+I (..\..\INC\RTX_CM_lib.h)(0x5C632A79)
+F (.\HAL_CM3.c)(0x511B6164)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I .. -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\hal_cm3.o --omf_browse .\obj\hal_cm3.crf --depend .\obj\hal_cm3.d)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\RTX_Config.h)(0x511B6163)
+I (..\rt_System.h)(0x511B6163)
+I (..\rt_HAL_CM.h)(0x5D026205)
+I (..\rt_Task.h)(0x511B6163)
+I (..\rt_MemBox.h)(0x5CD2B99B)
+F (..\HAL_CM.c)(0x511B6166)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\hal_cm.o --omf_browse .\obj\hal_cm.crf --depend .\obj\hal_cm.d)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\RTX_Config.h)(0x511B6163)
+I (..\rt_HAL_CM.h)(0x5D026205)
+F (.\SVC_Table.s)(0x5CD41382)(--cpu Cortex-M3 --pd "__RTX SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"--pd "__UVISION_VERSION SETA 526"--list .\lst\svc_table.lst --xref -o .\obj\svc_table.o --depend .\obj\svc_table.d)
+F (..\rt_CMSIS.c)(0x5C67038B)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\rt_cmsis.o --omf_browse .\obj\rt_cmsis.crf --depend .\obj\rt_cmsis.d)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\RTX_Config.h)(0x511B6163)
+I (..\rt_System.h)(0x511B6163)
+I (..\rt_Task.h)(0x511B6163)
+I (..\rt_Event.h)(0x511B6166)
+I (..\rt_List.h)(0x511B6164)
+I (..\rt_Time.h)(0x511B6163)
+I (..\rt_Mutex.h)(0x511B6164)
+I (..\rt_Semaphore.h)(0x511B6164)
+I (..\rt_Mailbox.h)(0x511B6163)
+I (..\rt_MemBox.h)(0x5CD2B99B)
+I (..\rt_Memory.h)(0x511B6164)
+I (..\rt_HAL_CM.h)(0x5D026205)
+I (..\cmsis_os.h)(0x511B6166)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599F3DAC)
+F (..\rt_Event.c)(0x511B6166)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\rt_event.o --omf_browse .\obj\rt_event.crf --depend .\obj\rt_event.d)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\RTX_Config.h)(0x511B6163)
+I (..\rt_System.h)(0x511B6163)
+I (..\rt_Event.h)(0x511B6166)
+I (..\rt_List.h)(0x511B6164)
+I (..\rt_Task.h)(0x511B6163)
+I (..\rt_HAL_CM.h)(0x5D026205)
+F (..\rt_List.c)(0x511B6164)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\rt_list.o --omf_browse .\obj\rt_list.crf --depend .\obj\rt_list.d)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\RTX_Config.h)(0x511B6163)
+I (..\rt_System.h)(0x511B6163)
+I (..\rt_List.h)(0x511B6164)
+I (..\rt_Task.h)(0x511B6163)
+I (..\rt_Time.h)(0x511B6163)
+I (..\rt_HAL_CM.h)(0x5D026205)
+F (..\rt_Mailbox.c)(0x511B6163)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\rt_mailbox.o --omf_browse .\obj\rt_mailbox.crf --depend .\obj\rt_mailbox.d)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\RTX_Config.h)(0x511B6163)
+I (..\rt_System.h)(0x511B6163)
+I (..\rt_List.h)(0x511B6164)
+I (..\rt_Mailbox.h)(0x511B6163)
+I (..\rt_MemBox.h)(0x5CD2B99B)
+I (..\rt_Task.h)(0x511B6163)
+I (..\rt_HAL_CM.h)(0x5D026205)
+F (..\rt_MemBox.c)(0x511B6166)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\rt_membox.o --omf_browse .\obj\rt_membox.crf --depend .\obj\rt_membox.d)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\RTX_Config.h)(0x511B6163)
+I (..\rt_System.h)(0x511B6163)
+I (..\rt_MemBox.h)(0x5CD2B99B)
+I (..\rt_HAL_CM.h)(0x5D026205)
+F (..\rt_Memory.c)(0x511B6164)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\rt_memory.o --omf_browse .\obj\rt_memory.crf --depend .\obj\rt_memory.d)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\rt_Memory.h)(0x511B6164)
+F (..\rt_Mutex.c)(0x511B6163)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\rt_mutex.o --omf_browse .\obj\rt_mutex.crf --depend .\obj\rt_mutex.d)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\RTX_Config.h)(0x511B6163)
+I (..\rt_List.h)(0x511B6164)
+I (..\rt_Task.h)(0x511B6163)
+I (..\rt_Mutex.h)(0x511B6164)
+I (..\rt_HAL_CM.h)(0x5D026205)
+F (..\rt_Robin.c)(0x511B6166)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\rt_robin.o --omf_browse .\obj\rt_robin.crf --depend .\obj\rt_robin.d)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\RTX_Config.h)(0x511B6163)
+I (..\rt_List.h)(0x511B6164)
+I (..\rt_Task.h)(0x511B6163)
+I (..\rt_Time.h)(0x511B6163)
+I (..\rt_Robin.h)(0x511B6166)
+I (..\rt_HAL_CM.h)(0x5D026205)
+F (..\rt_Semaphore.c)(0x511B6164)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\rt_semaphore.o --omf_browse .\obj\rt_semaphore.crf --depend .\obj\rt_semaphore.d)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\RTX_Config.h)(0x511B6163)
+I (..\rt_System.h)(0x511B6163)
+I (..\rt_List.h)(0x511B6164)
+I (..\rt_Task.h)(0x511B6163)
+I (..\rt_Semaphore.h)(0x511B6164)
+I (..\rt_HAL_CM.h)(0x5D026205)
+F (..\rt_System.c)(0x5C659EEE)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\Aplicacion -I ..\Aplicacion\Ethernet -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\rt_system.o --omf_browse .\obj\rt_system.crf --depend .\obj\rt_system.d)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\RTX_Config.h)(0x511B6163)
+I (..\rt_Task.h)(0x511B6163)
+I (..\rt_System.h)(0x511B6163)
+I (..\rt_Event.h)(0x511B6166)
+I (..\rt_List.h)(0x511B6164)
+I (..\rt_Mailbox.h)(0x511B6163)
+I (..\rt_Semaphore.h)(0x511B6164)
+I (..\rt_Time.h)(0x511B6163)
+I (..\rt_Timer.h)(0x511B6166)
+I (..\rt_Robin.h)(0x511B6166)
+I (..\rt_HAL_CM.h)(0x5D026205)
+I (..\Aplicacion\Ethernet\tcpip.h)(0x5C659871)
+I (..\Aplicacion\Ethernet\easyweb.h)(0x5CF7C0BD)
+I (..\Aplicacion\cmsis_os.h)(0x511B6166)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599F3DAC)
+F (..\rt_Task.c)(0x511B6163)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\rt_task.o --omf_browse .\obj\rt_task.crf --depend .\obj\rt_task.d)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\RTX_Config.h)(0x511B6163)
+I (..\rt_System.h)(0x511B6163)
+I (..\rt_Task.h)(0x511B6163)
+I (..\rt_List.h)(0x511B6164)
+I (..\rt_MemBox.h)(0x5CD2B99B)
+I (..\rt_Robin.h)(0x511B6166)
+I (..\rt_HAL_CM.h)(0x5D026205)
+F (..\rt_Time.c)(0x511B6163)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\rt_time.o --omf_browse .\obj\rt_time.crf --depend .\obj\rt_time.d)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\RTX_Config.h)(0x511B6163)
+I (..\rt_Task.h)(0x511B6163)
+I (..\rt_Time.h)(0x511B6163)
+F (..\rt_Timer.c)(0x5A854E59)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\rt_timer.o --omf_browse .\obj\rt_timer.crf --depend .\obj\rt_timer.d)
+I (..\rt_TypeDef.h)(0x5CAC898F)
+I (..\RTX_Config.h)(0x511B6163)
+I (..\rt_Timer.h)(0x511B6166)
+I (..\rt_MemBox.h)(0x5CD2B99B)
+F (..\Aplicacion\LPC1700CMSIS_Firmware_Library\source\lpc17xx_clkpwr.c)(0x4E00A1FE)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\lpc17xx_clkpwr.o --omf_browse .\obj\lpc17xx_clkpwr.crf --depend .\obj\lpc17xx_clkpwr.d)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395E58)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\lpc17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E00A200)
+F (..\Aplicacion\LPC1700CMSIS_Firmware_Library\source\lpc17xx_gpio.c)(0x4E00A1FE)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\lpc17xx_gpio.o --omf_browse .\obj\lpc17xx_gpio.crf --depend .\obj\lpc17xx_gpio.d)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E395E58)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E00A200)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395E58)
+F (..\Aplicacion\LPC1700CMSIS_Firmware_Library\source\lpc17xx_libcfg_default.c)(0x4E00A1FE)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\lpc17xx_libcfg_default.o --omf_browse .\obj\lpc17xx_libcfg_default.crf --depend .\obj\lpc17xx_libcfg_default.d)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395E58)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E00A200)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+F (..\Aplicacion\LPC1700CMSIS_Firmware_Library\source\lpc17xx_ssp.c)(0x4E00A1FE)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\lpc17xx_ssp.o --omf_browse .\obj\lpc17xx_ssp.crf --depend .\obj\lpc17xx_ssp.d)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E395E58)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E00A200)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395E58)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395E58)
+F (..\Aplicacion\LPC1700CMSIS_Firmware_Library\source\lpc17xx_pinsel.c)(0x4E00A1FE)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\lpc17xx_pinsel.o --omf_browse .\obj\lpc17xx_pinsel.crf --depend .\obj\lpc17xx_pinsel.d)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395E58)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\lpc17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E00A200)
+F (..\Aplicacion\LPC1700CMSIS_Firmware_Library\source\debug_frmwrk.c)(0x4F6498C2)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\debug_frmwrk.o --omf_browse .\obj\debug_frmwrk.crf --depend .\obj\debug_frmwrk.d)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\debug_frmwrk.h)(0x4E00A200)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_uart.h)(0x4E395E58)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E00A200)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395E58)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395E58)
+F (..\Aplicacion\LPC1700CMSIS_Firmware_Library\source\lpc17xx_uart.c)(0x4E395E56)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\lpc17xx_uart.o --omf_browse .\obj\lpc17xx_uart.crf --depend .\obj\lpc17xx_uart.d)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_uart.h)(0x4E395E58)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E00A200)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395E58)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395E58)
+F (..\Aplicacion\UART\UARTn.c)(0x5CFFDEA8)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\uartn.o --omf_browse .\obj\uartn.crf --depend .\obj\uartn.d)
+I (..\..\SRC\cmsis_os.h)(0x511B6166)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599F3DAC)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\string.h)(0x599F3DAC)
+I (..\..\SRC\rt_MemBox.h)(0x5CD2B99B)
+I (..\..\SRC\rt_TypeDef.h)(0x5CAC898F)
+I (..\..\SRC\RTX_config.h)(0x511B6163)
+I (..\Aplicacion\UART\uartn.h)(0x5CF7BF12)
+F (..\Aplicacion\Ethernet\EMAC.c)(0x5C2BEB27)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\emac.o --omf_browse .\obj\emac.crf --depend .\obj\emac.d)
+I (..\Aplicacion\Ethernet\EMAC.h)(0x5C4E04D1)
+I (..\Aplicacion\Ethernet\tcpip.h)(0x5C659871)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+F (..\Aplicacion\Ethernet\Ethernet.c)(0x5D08EBD7)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\ethernet.o --omf_browse .\obj\ethernet.crf --depend .\obj\ethernet.d)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (..\..\SRC\cmsis_os.h)(0x511B6166)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599F3DAC)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\string.h)(0x599F3DAC)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599F3DAC)
+I (..\Aplicacion\Ethernet\EMAC.h)(0x5C4E04D1)
+I (..\..\SRC\rt_TypeDef.h)(0x5CAC898F)
+I (..\..\SRC\rt_MemBox.h)(0x5CD2B99B)
+I (..\..\SRC\RTX_config.h)(0x511B6163)
+I (..\Aplicacion\Ethernet\easyweb.h)(0x5CF7C0BD)
+I (..\Aplicacion\Ethernet\tcpip.h)(0x5C659871)
+F (..\Aplicacion\Ethernet\Retarget.c)(0x4A02D7C6)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\retarget.o --omf_browse .\obj\retarget.crf --depend .\obj\retarget.d)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\rt_misc.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599F3DAC)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+F (..\Aplicacion\Ethernet\tcpip.c)(0x5C69635A)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\tcpip.o --omf_browse .\obj\tcpip.crf --depend .\obj\tcpip.d)
+I (..\Aplicacion\Ethernet\tcpip.h)(0x5C659871)
+I (..\Aplicacion\Ethernet\EMAC.h)(0x5C4E04D1)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\string.h)(0x599F3DAC)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+F (..\Aplicacion\LCD\LCD_SO.c)(0x5CFFF42B)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\lcd_so.o --omf_browse .\obj\lcd_so.crf --depend .\obj\lcd_so.d)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\string.h)(0x599F3DAC)
+I (..\..\SRC\rt_TypeDef.h)(0x5CAC898F)
+I (..\..\SRC\RTX_config.h)(0x511B6163)
+I (..\Aplicacion\LCD\LCD_h.h)(0x5D08EF43)
+I (..\..\SRC\cmsis_os.h)(0x511B6166)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599F3DAC)
+I (..\Aplicacion\LCD\lcddriver.h)(0x5C87ACCA)
+I (..\..\SRC\rt_Memory.h)(0x511B6164)
+I (..\..\SRC\rt_MemBox.h)(0x5CD2B99B)
+F (..\Aplicacion\LCD\font.c)(0x522982A6)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\font.o --omf_browse .\obj\font.crf --depend .\obj\font.d)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+F (..\Aplicacion\LCD\lcddriver.c)(0x543282CA)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\lcddriver.o --omf_browse .\obj\lcddriver.crf --depend .\obj\lcddriver.d)
+I (..\Aplicacion\LCD\lcddriver.h)(0x5C87ACCA)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (..\Aplicacion\LCD\lpc17xx_gpio.h)(0x4E395048)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (..\Aplicacion\LCD\lpc_types.h)(0x4E0093F0)
+I (..\Aplicacion\LCD\lpc17xx_clkpwr.h)(0x4E395048)
+F (..\Aplicacion\TouchPanel\Libraries\CM3\CoreSupport\core_cm3.c)(0x4DD1370A)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\core_cm3.o --omf_browse .\obj\core_cm3.crf --depend .\obj\core_cm3.d)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+F (..\Aplicacion\TouchPanel\USER\AsciiLib.c)(0x4CEFE446)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\asciilib.o --omf_browse .\obj\asciilib.crf --depend .\obj\asciilib.d)
+I (..\Aplicacion\TouchPanel\USER\AsciiLib.h)(0x4CEFE47F)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\string.h)(0x599F3DAC)
+F (..\Aplicacion\TouchPanel\USER\GLCD.c)(0x5CAC95BE)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\glcd.o --omf_browse .\obj\glcd.crf --depend .\obj\glcd.d)
+I (..\Aplicacion\TouchPanel\USER\GLCD.h)(0x5A7DC6FD)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E395E58)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E00A200)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395E58)
+I (..\Aplicacion\TouchPanel\USER\HzLib.h)(0x4CF00CD6)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\string.h)(0x599F3DAC)
+I (..\Aplicacion\TouchPanel\USER\AsciiLib.h)(0x4CEFE47F)
+F (..\Aplicacion\TouchPanel\USER\TouchPanel.c)(0x5D0938B1)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\touchpanel.o --omf_browse .\obj\touchpanel.crf --depend .\obj\touchpanel.d)
+I (..\Aplicacion\TouchPanel\USER\GLCD.h)(0x5A7DC6FD)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E395E58)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E00A200)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395E58)
+I (..\Aplicacion\TouchPanel\USER\TouchPanel.h)(0x4F6844FD)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E395E58)
+F (..\Aplicacion\TouchPanel\USER\TouchPanel_OS.c)(0x5CF7BFFC)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\touchpanel_os.o --omf_browse .\obj\touchpanel_os.crf --depend .\obj\touchpanel_os.d)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\string.h)(0x599F3DAC)
+I (..\..\SRC\rt_TypeDef.h)(0x5CAC898F)
+I (..\..\SRC\RTX_config.h)(0x511B6163)
+I (..\Aplicacion\TouchPanel\USER\GLCD.h)(0x5A7DC6FD)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E395E58)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E00A200)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395E58)
+I (..\Aplicacion\TouchPanel\USER\TouchPanel.h)(0x4F6844FD)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E395E58)
+I (..\Aplicacion\TouchPanel\USER\TouchPanel_OS.h)(0x5CF7BFFC)
+I (..\..\SRC\cmsis_os.h)(0x511B6166)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599F3DAC)
+I (..\..\SRC\rt_MemBox.h)(0x5CD2B99B)
+F (..\Aplicacion\File\FILE_OS.c)(0x5D10A4FE)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\file_os.o --omf_browse .\obj\file_os.crf --depend .\obj\file_os.d)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (..\..\SRC\cmsis_os.h)(0x511B6166)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599F3DAC)
+I (..\Aplicacion\File\USER\FATFS_V0.08A\src\ff.h)(0x4C6967B8)
+I (..\Aplicacion\File\USER\FATFS_V0.08A\src\integer.h)(0x4BD36672)
+I (..\Aplicacion\File\USER\FATFS_V0.08A\src\ffconf.h)(0x4E2BF3DF)
+I (..\Aplicacion\File\USER\SPI_SD_Card\SPI_MSD_Driver.h)(0x4F283CDE)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E395E58)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E00A200)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E395E58)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395E58)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599F3DAC)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\string.h)(0x599F3DAC)
+I (..\..\SRC\rt_TypeDef.h)(0x5CAC898F)
+I (..\..\SRC\RTX_config.h)(0x511B6163)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\debug_frmwrk.h)(0x4E00A200)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_uart.h)(0x4E395E58)
+I (..\..\SRC\rt_MemBox.h)(0x5CD2B99B)
+I (..\Aplicacion\File\FILE_OS.h)(0x5CF7C03C)
+F (..\Aplicacion\File\USER\FATFS_V0.08A\src\ff.c)(0x5D0938C9)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\ff.o --omf_browse .\obj\ff.crf --depend .\obj\ff.d)
+I (..\Aplicacion\File\USER\FATFS_V0.08A\src\ff.h)(0x4C6967B8)
+I (..\Aplicacion\File\USER\FATFS_V0.08A\src\integer.h)(0x4BD36672)
+I (..\Aplicacion\File\USER\FATFS_V0.08A\src\ffconf.h)(0x4E2BF3DF)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\lpc17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (..\Aplicacion\File\USER\FATFS_V0.08A\src\diskio.h)(0x4C698700)
+F (..\Aplicacion\File\USER\SPI_SD_Card\SPI_MSD_Driver.c)(0x5CB5E973)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\spi_msd_driver.o --omf_browse .\obj\spi_msd_driver.crf --depend .\obj\spi_msd_driver.d)
+I (..\Aplicacion\File\USER\SPI_SD_Card\SPI_MSD_Driver.h)(0x4F283CDE)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E395E58)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E00A200)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E395E58)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395E58)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599F3DAC)
+F (..\Aplicacion\File\USER\FATFS_V0.08A\src\diskio.c)(0x4D233E09)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\SRC -I ..\Aplicacion\LPC1700CMSIS_Firmware_Library\include -I ..\Aplicacion\File\USER\FATFS_V0.08A\src -I ..\Aplicacion\File\USER\SPI_SD_Card -I ..\Aplicacion\Ethernet -I ..\Aplicacion\UART -I ..\Aplicacion\LCD -I ..\Aplicacion\File -I ..\Aplicacion\TouchPanel\USER -I ..\Aplicacion-I"D:\Programas y Juegos\Keil_v5\ARM\RV31\INC"-I"D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include"-I"D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx"-D__UVISION_VERSION="526" -D__CORTEX_M3 -D__CMSIS_RTOS-o .\obj\diskio.o --omf_browse .\obj\diskio.crf --depend .\obj\diskio.d)
+I (..\Aplicacion\File\USER\FATFS_V0.08A\src\diskio.h)(0x4C698700)
+I (..\Aplicacion\File\USER\FATFS_V0.08A\src\integer.h)(0x4BD36672)
+I (..\Aplicacion\File\USER\SPI_SD_Card\SPI_MSD_Driver.h)(0x4F283CDE)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x559D4422)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F3DAE)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D4E0A)
+I (D:\Programas y Juegos\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x5703BE82)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E395E58)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E00A200)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E395E58)
+I (..\Aplicacion\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395E58)

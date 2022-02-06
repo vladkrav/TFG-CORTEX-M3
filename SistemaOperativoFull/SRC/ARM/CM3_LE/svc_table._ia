@@ -1,0 +1,4 @@
+--cpu Cortex-M3 --li --pd "__EVAL SETA 1" -g --16 --apcs=interwork 
+-I C:\Keil\ARM\RV31\INC
+-I C:\Keil\ARM\CMSIS\Include
+--pd "__CMSIS_RTOS SETA 1" -o .\cm3_le\svc_table.o --depend .\cm3_le\svc_table.d "SVC_Table.s"

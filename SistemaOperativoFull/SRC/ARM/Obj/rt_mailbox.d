@@ -1,0 +1,9 @@
+.\obj\rt_mailbox.o: ..\rt_Mailbox.c
+.\obj\rt_mailbox.o: ..\rt_TypeDef.h
+.\obj\rt_mailbox.o: ..\RTX_Config.h
+.\obj\rt_mailbox.o: ..\rt_System.h
+.\obj\rt_mailbox.o: ..\rt_List.h
+.\obj\rt_mailbox.o: ..\rt_Mailbox.h
+.\obj\rt_mailbox.o: ..\rt_MemBox.h
+.\obj\rt_mailbox.o: ..\rt_Task.h
+.\obj\rt_mailbox.o: ..\rt_HAL_CM.h

@@ -1,0 +1,10 @@
+char path [512] ="0:";
+uint8_t text[] = "FIRST FILE FROM VLAD OPERATIVE SYSTEM \r\n";
+char name[] = "0:/VLAD.TXT";
+
+void main(){
+	
+	open();
+	write(text, name);
+	read(path);
+}

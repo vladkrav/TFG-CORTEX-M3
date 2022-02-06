@@ -1,0 +1,4 @@
+-c --cpu Cortex-M3 -D__EVAL --li -g -O3 --apcs=interwork --split_sections
+-I C:\Keil\ARM\RV31\INC
+-I C:\Keil\ARM\CMSIS\Include
+-D__CORTEX_M0 -D__CMSIS_RTOS -o .\cm3_le\rt_membox.o --depend .\cm3_le\rt_membox.d "..\rt_MemBox.c"
